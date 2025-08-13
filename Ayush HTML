@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ayush Singh | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="hero">
+        <img src="profile.jpg" alt="Ayush Singh" class="profile-pic">
+        <h1>Hi, I'm <span>Ayush Singh</span></h1>
+        <p>Customer Success | SaaS | Problem Solver</p>
+        <a href="#contact" class="btn">Get in Touch</a>
+    </header>
+
+    <!-- About -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I’m a seasoned Customer Success professional with over 7 years in SaaS,
+            helping businesses achieve measurable growth and customer retention.
+            Skilled in strategy, client relations, and AI-powered success analytics.
+        </p>
+    </section>
+
+    <!-- Projects -->
+    <section id="projects">
+        <h2>Highlighted Work</h2>
+        <div class="project-grid">
+            <div class="project-card">
+                <h3>🚀 Retention Booster</h3>
+                <p>Improved retention rates for SaaS clients by 30% through proactive success strategies.</p>
+            </div>
+            <div class="project-card">
+                <h3>📊 AI Metrics Dashboard</h3>
+                <p>Developed an AI-driven success metrics dashboard to track client health in real-time.</p>
+            </div>
+            <div class="project-card">
+                <h3>💡 Industry Speaker</h3>
+                <p>Presented at leading SaaS conferences on customer retention best practices.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:youremail@example.com">youremail@example.com</a></p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 Ayush Singh</p>
+    </footer>
+</body>
+</html>
